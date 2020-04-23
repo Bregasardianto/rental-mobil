@@ -53,7 +53,7 @@
                             judul
                         </div>
                         <div class="col-md-8 no-margin">
-                            Sistem Rental Mobil
+                            Sistem Penjualan Mobil
                         </div>
                     </div>
                     <div class="col-lg-12 form-group">
@@ -61,7 +61,7 @@
                             penjelasan
                         </div>
                         <div class="col-md-8 no-margin">
-                        Sistem rental mobil ini bertujuan untuk mempermudah pelanggan dalam memilih mobil yang akan disewa  
+                        Sistem Penjualan Mobil ini digunakan agar orang-orang yang akan membeli mobil bisa mengecek disini 
                         </div>
                     </div>
             </div>
